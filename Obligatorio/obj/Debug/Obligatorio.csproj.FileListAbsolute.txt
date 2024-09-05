@@ -1,0 +1,190 @@
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Actores.resources
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Peliculas.resources
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\santi\source\repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio copia\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio Seguro\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio Seguro - copia\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Usuario\Desktop\Obligatorio casiCompleto\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio ES\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio singeltonMierda\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio singeltonMierda - copia\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio 99%\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Administrator\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formMenu.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioActores.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioActoresEnPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioFiltradoPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioMostrarActor.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.formularioPeliculas.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\santi\Desktop\Obligatorio 100%Funcional\Obligatorio\obj\Debug\Obligatorio.pdb
